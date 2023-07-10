@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Niyush-04/Niyush-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+Hi ! I am Pradip Maurya.<br>I live in Gwalior, Madhya Pradesh, India.<br>I have completed my high school and intermediate from Kendriya vidyalaya Gwalior, MP.<br>I know Blender, Figma, etc.<br>I am currently exploring android development.
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itzMaurya&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itzMaurya&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzMaurya&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=itzMaurya&icon=0&color=12)](https://visitcount.itsvg.in)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
